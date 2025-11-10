@@ -1,0 +1,9 @@
+<svg width="120" height="40" viewBox="0 0 120 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="30" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#pinkGradient)">manas</text>
+  <defs>
+    <linearGradient id="pinkGradient" x1="0" y1="0" x2="120" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ff6aab"/>
+      <stop offset="1" stop-color="#ffb6c1"/>
+    </linearGradient>
+  </defs>
+</svg>
